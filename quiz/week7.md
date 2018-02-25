@@ -1,4 +1,4 @@
-# Weekly quiz 05
+# Weekly quiz 07
 
 ## Q1
 Consider the general image inpainting form $\nabla L \cdot \vec{N}=0$, meaning we propagate the information $L$ in the direction $\vec{N}$ , as we have discussed in Video 3 this week. Consider $\vec{N} = (∇I)^\bot$, meaning the perpendicular $(\bot)$ to the gradient of the image. What will happen if instead of propagating the Laplacian of $I$ as in the video, we propagate the image $I$ itself?

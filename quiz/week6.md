@@ -1,4 +1,4 @@
-# Weekly quiz 05
+# Weekly quiz 06
 
 ## Q1
 What shapes have constant Euclidean curvature?
